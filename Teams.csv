@@ -1,0 +1,33 @@
+team_id,team_name,confederation,group_name,matches_played,wins,draws,losses,goals_for,goals_against,goal_difference,points,final_result,tactical_style,avg_possession_pct,pass_accuracy_pct,shots_per_game,tackles_per_game
+1,Brazil,CONMEBOL,A,7,3,2,2,11,14,-3,11,4th Place (Semifinal exit),Direct / Counter-attacking,56.4,79.1,14.6,17.8
+2,Mexico,CONCACAF,A,4,2,1,1,6,3,3,7,Round of 16,Defensive / Low Block,47.2,78.4,10.5,20.1
+3,Croatia,UEFA,A,3,1,0,2,6,6,0,3,Group Stage,Balanced,52.8,81.6,13.2,15.4
+4,Cameroon,CAF,A,3,0,0,3,1,9,-8,0,Group Stage,Direct / Long-Ball,44.1,70.2,8.7,16.9
+5,Netherlands,UEFA,B,7,5,1,1,15,6,9,16,3rd Place,Counter-attacking,53.9,82.3,13.9,16.2
+6,Chile,CONMEBOL,B,4,2,1,1,8,5,3,7,Round of 16,High Pressing,54.7,83.1,15.8,19.6
+7,Spain,UEFA,B,3,1,0,2,4,7,-3,3,Group Stage,Possession-based (Tiki-Taka),63.8,88.4,14.1,13.2
+8,Australia,AFC,B,3,0,0,3,2,9,-7,0,Group Stage,High Pressing,45.3,72.6,10.9,18.4
+9,Colombia,CONMEBOL,C,5,4,0,1,12,5,7,12,Quarterfinal,Possession-based / Balanced,54.2,85.7,15.4,17.1
+10,Greece,UEFA,C,4,1,1,2,3,6,-3,4,Round of 16,Defensive / Low Block,44.8,75.3,9.3,19.8
+11,Ivory Coast,CAF,C,3,1,0,2,4,5,-1,3,Group Stage,Balanced,48.6,76.9,11.7,17.3
+12,Japan,AFC,C,3,0,1,2,2,6,-4,1,Group Stage,Possession-based,56.1,84.9,12.4,14.7
+13,Costa Rica,CONCACAF,D,5,3,2,0,5,2,3,11,Quarterfinal,Defensive / Low Block (Counter),39.7,74.1,8.6,22.4
+14,Uruguay,CONMEBOL,D,4,2,0,2,4,5,-1,6,Round of 16,Defensive / Counter-attacking,44.5,76.8,10.1,20.7
+15,Italy,UEFA,D,3,1,0,2,2,3,-1,3,Group Stage,Balanced / Possession,53.4,83.5,11.8,16.5
+16,England,UEFA,D,3,0,1,2,2,4,-2,1,Group Stage,Balanced / Direct,50.2,80.7,12.6,17.9
+17,France,UEFA,E,5,3,1,1,10,3,7,10,Quarterfinal,Balanced / Possession,56.8,84.2,15.9,16.8
+18,Switzerland,UEFA,E,4,2,0,2,7,9,-2,6,Round of 16,Balanced,51.3,80.9,12.9,17.6
+19,Ecuador,CONMEBOL,E,3,1,1,1,3,3,0,4,Group Stage,Balanced,49.7,78.6,11.2,18.3
+20,Honduras,CONCACAF,E,3,0,0,3,1,8,-7,0,Group Stage,Defensive / Low Block,41.6,69.8,7.9,21.5
+21,Argentina,CONMEBOL,F,7,6,1,0,11,5,6,19,Runner-up (Final),Counter-attacking,52.6,82.8,14.3,16.1
+22,Nigeria,CAF,F,4,1,2,1,5,7,-2,5,Round of 16,Counter-attacking,47.9,77.4,11.1,18.9
+23,Bosnia and Herzegovina,UEFA,F,3,1,0,2,4,4,0,3,Group Stage,Balanced,50.5,80.1,13.5,16.4
+24,Iran,AFC,F,3,0,1,2,1,4,-3,1,Group Stage,Defensive / Low Block,38.9,73.2,6.8,23.6
+25,Germany,UEFA,G,7,6,1,0,18,4,14,19,Champion,Possession-based / High Pressing,59.6,86.9,16.7,15.9
+26,United States,CONCACAF,G,4,2,1,1,6,5,1,7,Round of 16,Defensive / Counter-attacking,43.8,74.5,9.6,21.2
+27,Portugal,UEFA,G,3,1,1,1,4,7,-3,4,Group Stage,Direct / Counter-attacking,47.1,76.3,10.8,17.7
+28,Ghana,CAF,G,3,0,2,1,4,6,-2,2,Group Stage,Balanced,48.3,77.1,11.4,18.6
+29,Belgium,UEFA,H,5,4,0,1,6,4,2,12,Quarterfinal,Counter-attacking,50.9,80.4,12.7,17.2
+30,Algeria,CAF,H,4,1,2,1,7,7,0,5,Round of 16,Direct / Counter-attacking,45.6,74.9,10.3,19.4
+31,Russia,UEFA,H,3,0,2,1,2,3,-1,2,Group Stage,Balanced,48.1,79.2,10.6,18.1
+32,South Korea,AFC,H,3,0,1,2,3,6,-3,1,Group Stage,High Pressing,49.4,78.8,11.9,19.1

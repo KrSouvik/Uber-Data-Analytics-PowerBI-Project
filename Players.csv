@@ -1,0 +1,111 @@
+player_id,player_name,team_id,team_name,position,age,jersey_number,matches_played,minutes_played,goals,assists,yellow_cards,red_cards,shots_total,pass_accuracy_pct
+1,James Rodriguez,9,Colombia,Midfielder,22,10,5,479,6,2,1,0,20,84.5
+2,Thomas Muller,25,Germany,Forward,24,13,7,569,5,3,1,0,19,81.2
+3,Neymar,1,Brazil,Forward,22,10,4,386,4,1,1,0,20,78.9
+4,Lionel Messi,21,Argentina,Forward,27,10,7,634,4,1,2,0,25,83.6
+5,Robin van Persie,5,Netherlands,Forward,30,9,7,589,4,0,0,0,18,80.1
+6,Karim Benzema,17,France,Forward,26,19,5,441,3,0,0,0,17,82.4
+7,Enner Valencia,19,Ecuador,Forward,24,7,3,270,3,0,0,0,10,76.3
+8,Arjen Robben,5,Netherlands,Forward,30,11,7,608,3,3,0,0,22,79.8
+9,Xherdan Shaqiri,18,Switzerland,Midfielder,22,23,4,353,3,0,0,0,13,81.7
+10,Bryan Ruiz,13,Costa Rica,Forward,28,10,5,450,2,1,1,0,9,77.5
+11,Miroslav Klose,25,Germany,Forward,36,11,5,247,2,0,0,0,7,74.2
+12,Toni Kroos,25,Germany,Midfielder,24,18,7,606,2,3,1,0,14,90.3
+13,Mario Gotze,25,Germany,Forward,22,19,7,352,2,0,1,0,10,83.1
+14,Andre Schurrle,25,Germany,Forward,23,7,7,367,3,1,0,0,12,80.6
+15,Julian Green,25,Germany,Forward,19,20,1,20,0,0,0,0,1,75.0
+16,Mats Hummels,25,Germany,Defender,25,5,7,630,2,0,1,0,8,89.7
+17,Manuel Neuer,25,Germany,Goalkeeper,28,1,7,690,0,0,0,0,0,88.2
+18,Philipp Lahm,25,Germany,Defender,30,16,7,690,0,1,0,0,3,91.4
+19,Sami Khedira,25,Germany,Midfielder,27,6,4,300,1,1,0,0,6,85.9
+20,Bastian Schweinsteiger,25,Germany,Midfielder,29,7,7,592,0,1,2,0,9,88.5
+21,Sergio Aguero,21,Argentina,Forward,25,16,4,183,1,1,0,0,10,76.4
+22,Angel Di Maria,21,Argentina,Midfielder,26,7,5,433,1,2,1,0,11,79.2
+23,Gonzalo Higuain,21,Argentina,Forward,26,9,7,433,1,0,0,0,15,74.8
+24,Javier Mascherano,21,Argentina,Midfielder,29,14,7,690,0,0,3,0,4,87.3
+25,Sergio Romero,21,Argentina,Goalkeeper,27,1,7,690,0,0,1,0,0,71.5
+26,Ezequiel Lavezzi,21,Argentina,Forward,29,22,6,320,0,1,0,0,8,78.0
+27,Marcos Rojo,21,Argentina,Defender,24,16,6,540,1,0,1,0,3,80.4
+28,Oscar,1,Brazil,Midfielder,22,11,7,617,1,1,2,0,10,81.9
+29,David Luiz,1,Brazil,Defender,27,4,7,690,2,0,2,0,9,83.7
+30,Thiago Silva,1,Brazil,Defender,29,3,6,540,1,0,3,0,3,88.1
+31,Fred,1,Brazil,Forward,30,9,6,441,1,0,0,0,6,72.6
+32,Julio Cesar,1,Brazil,Goalkeeper,34,1,5,481,0,0,0,0,0,73.4
+33,Hulk,1,Brazil,Forward,27,7,7,600,1,1,1,0,17,73.9
+34,Marcelo,1,Brazil,Defender,26,6,7,660,0,1,1,0,5,84.5
+35,Luis Suarez,14,Uruguay,Forward,27,9,3,270,2,0,0,1,9,76.7
+36,Diego Godin,14,Uruguay,Defender,28,3,4,360,1,0,1,0,4,82.9
+37,Edinson Cavani,14,Uruguay,Forward,27,21,4,352,1,0,0,0,10,74.3
+38,Alexis Sanchez,6,Chile,Forward,25,7,4,354,2,0,0,0,14,79.5
+39,Arturo Vidal,6,Chile,Midfielder,27,8,4,331,1,0,2,0,9,83.2
+40,Eduardo Vargas,6,Chile,Forward,24,16,4,215,2,0,0,0,8,73.8
+41,Charles Aranguiz,6,Chile,Midfielder,25,20,4,346,0,1,1,0,6,84.6
+42,Diego Costa,7,Spain,Forward,25,19,3,203,0,0,0,0,7,68.9
+43,Andres Iniesta,7,Spain,Midfielder,30,6,3,270,0,1,0,0,5,88.9
+44,David Silva,7,Spain,Midfielder,28,21,3,240,0,0,0,0,4,86.7
+45,Xabi Alonso,7,Spain,Midfielder,32,14,3,270,0,0,1,0,3,90.1
+46,Iker Casillas,7,Spain,Goalkeeper,33,1,3,270,0,0,0,0,0,72.0
+47,Tim Howard,26,United States,Goalkeeper,35,1,4,390,0,0,0,0,0,69.3
+48,Clint Dempsey,26,United States,Forward,31,8,4,360,2,0,0,0,10,76.5
+49,Jozy Altidore,26,United States,Forward,24,17,2,53,0,0,0,0,1,70.2
+50,Michael Bradley,26,United States,Midfielder,26,4,4,360,0,1,0,0,6,81.4
+51,Cristiano Ronaldo,27,Portugal,Forward,29,7,3,270,1,1,0,0,11,80.3
+52,Nani,27,Portugal,Forward,27,17,3,257,1,1,0,0,7,77.9
+53,Pepe,27,Portugal,Defender,31,3,2,180,0,0,1,1,2,81.5
+54,Wayne Rooney,16,England,Forward,28,9,3,270,1,1,0,0,6,79.4
+55,Daniel Sturridge,16,England,Forward,24,21,3,199,1,0,0,0,7,74.6
+56,Steven Gerrard,16,England,Midfielder,34,4,3,270,0,0,0,0,3,84.2
+57,Mario Balotelli,15,Italy,Forward,23,9,3,231,1,0,1,0,8,72.1
+58,Andrea Pirlo,15,Italy,Midfielder,35,21,3,270,0,1,0,0,4,89.6
+59,Gianluigi Buffon,15,Italy,Goalkeeper,36,1,2,180,0,0,0,0,0,75.0
+60,Juan Cuadrado,9,Colombia,Midfielder,26,16,5,442,1,4,0,0,9,80.7
+61,Teofilo Gutierrez,9,Colombia,Forward,29,7,4,246,2,0,0,0,7,75.3
+62,David Ospina,9,Colombia,Goalkeeper,25,1,5,480,0,0,0,0,0,74.8
+63,Mario Yepes,9,Colombia,Defender,38,3,5,480,1,0,1,0,3,83.9
+64,Vincent Kompany,29,Belgium,Defender,28,4,5,480,0,0,1,0,2,85.4
+65,Eden Hazard,29,Belgium,Forward,23,10,5,450,0,1,1,0,10,80.9
+66,Kevin De Bruyne,29,Belgium,Midfielder,22,7,5,391,0,0,0,0,7,82.3
+67,Romelu Lukaku,29,Belgium,Forward,21,9,5,257,0,1,0,0,10,71.5
+68,Divock Origi,29,Belgium,Forward,19,17,5,163,1,1,0,0,4,73.2
+69,Thibaut Courtois,29,Belgium,Goalkeeper,22,1,5,480,0,0,0,0,0,70.4
+70,Joel Campbell,13,Costa Rica,Forward,21,12,5,406,1,0,0,0,7,74.7
+71,Keylor Navas,13,Costa Rica,Goalkeeper,27,1,5,480,0,0,0,0,0,71.9
+72,Giancarlo Gonzalez,13,Costa Rica,Defender,26,3,5,480,0,0,2,0,2,80.5
+73,Kolo Toure,11,Ivory Coast,Defender,33,20,3,270,0,0,1,0,2,81.8
+74,Yaya Toure,11,Ivory Coast,Midfielder,31,8,3,264,0,0,1,0,6,83.4
+75,Didier Drogba,11,Ivory Coast,Forward,36,11,2,89,0,0,0,0,3,72.0
+76,Wilfried Bony,11,Ivory Coast,Forward,25,9,3,231,1,0,0,0,6,73.6
+77,Asamoah Gyan,28,Ghana,Forward,28,3,3,270,1,0,0,0,8,75.1
+78,Andre Ayew,28,Ghana,Forward,24,10,3,270,2,1,0,0,7,76.8
+79,John Boye,28,Ghana,Defender,26,21,3,270,0,0,1,0,1,79.3
+80,Keisuke Honda,12,Japan,Midfielder,27,4,3,270,1,1,1,0,6,80.2
+81,Shinji Kagawa,12,Japan,Midfielder,25,10,3,180,0,0,0,0,4,82.6
+82,Yasuhito Endo,12,Japan,Midfielder,34,7,3,229,0,0,0,0,2,86.7
+83,Vincent Aboubakar,4,Cameroon,Forward,22,10,3,270,0,0,1,0,5,72.4
+84,Samuel Eto'o,4,Cameroon,Forward,33,15,3,241,0,0,0,0,6,74.0
+85,Stephane Mbia,4,Cameroon,Defender,28,6,3,270,0,0,1,1,1,76.9
+86,Guillermo Ochoa,2,Mexico,Goalkeeper,28,13,4,390,0,0,0,0,0,73.5
+87,Javier Hernandez,2,Mexico,Forward,26,14,3,140,1,0,0,0,6,75.7
+88,Giovani dos Santos,2,Mexico,Forward,25,10,4,315,1,1,0,0,8,78.1
+89,Rafael Marquez,2,Mexico,Defender,35,4,4,390,0,0,0,0,3,82.7
+90,Mario Mandzukic,3,Croatia,Forward,28,17,3,270,1,0,1,0,7,74.5
+91,Ivan Rakitic,3,Croatia,Midfielder,26,7,3,270,1,0,0,0,6,85.3
+92,Luka Modric,3,Croatia,Midfielder,28,10,3,270,0,1,0,0,7,88.0
+93,Vedad Ibisevic,23,Bosnia and Herzegovina,Forward,29,9,3,270,1,0,0,0,6,76.2
+94,Edin Dzeko,23,Bosnia and Herzegovina,Forward,28,17,3,241,1,0,0,0,7,77.4
+95,Reza Ghoochannejhad,24,Iran,Forward,26,7,3,180,1,0,0,0,4,73.1
+96,Ashkan Dejagah,24,Iran,Forward,27,11,3,201,0,0,0,0,3,72.8
+97,John Obi Mikel,22,Nigeria,Midfielder,27,10,4,360,0,0,0,0,3,82.0
+98,Ahmed Musa,22,Nigeria,Forward,21,7,4,313,2,0,0,0,7,73.9
+99,Vincent Enyeama,22,Nigeria,Goalkeeper,31,1,4,390,0,0,0,0,0,70.6
+100,Islam Slimani,30,Algeria,Forward,25,11,4,318,2,0,0,0,8,71.3
+101,Yacine Brahimi,30,Algeria,Midfielder,24,10,4,265,1,1,0,0,6,79.6
+102,Rais M'Bolhi,30,Algeria,Goalkeeper,27,1,4,420,0,0,0,0,0,69.1
+103,Alexander Kerzhakov,31,Russia,Forward,31,17,3,180,1,0,0,0,5,72.5
+104,Igor Akinfeev,31,Russia,Goalkeeper,28,1,3,270,0,0,0,0,0,74.0
+105,Son Heung-min,32,South Korea,Forward,21,7,3,270,1,0,0,0,6,77.7
+106,Koo Ja-cheol,32,South Korea,Midfielder,25,17,3,225,1,0,0,0,4,79.9
+107,Tim Cahill,8,Australia,Forward,34,4,3,214,1,0,0,0,5,71.6
+108,Mile Jedinak,8,Australia,Midfielder,29,15,3,270,1,0,1,0,4,78.3
+109,Jefferson Montero,19,Ecuador,Forward,24,7,3,238,0,1,0,0,6,74.9
+110,Antonio Valencia,19,Ecuador,Midfielder,28,8,3,254,0,0,0,0,4,80.0
